@@ -2,8 +2,8 @@
 <td valign="middle" width="60%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&size=60&pause=2500&color=E8F4FD&center=false&vCenter=true&width=600&height=75&lines=Aldair+Andrade;DairXP" />
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=60&pause=2500&color=1B3A5C&center=false&vCenter=true&width=600&height=75&lines=Aldair+Andrade;DairXP" alt="Name" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&size=60&pause=2500&color=E8F4FD&center=false&vCenter=true&width=600&height=75&lines=Aldair+Maquera;Dair+Dev" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=60&pause=2500&color=1B3A5C&center=false&vCenter=true&width=600&height=75&lines=Aldair+Maquera;Dair+Dev" alt="Name" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=2500&color=4A9EDB&center=false&vCenter=true&width=600&height=40&duration=1800&lines=Freelance+Backend+%26+AI+Engineer;TypeScript+%26+Python" />
@@ -15,12 +15,12 @@
 </picture>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1B3A5C?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldair-maquera-andrade)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-1B3A5C?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32708576/aldair-andrade)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1B3A5C?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmaquera)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-1B3A5C?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32708576/aldair-maquera)
 <br/>
-[![X](https://img.shields.io/badge/-X-1B3A5C?style=flat-square&logo=x&logoColor=white)](https://x.com/Aldair_J17)
-[![GitHub](https://img.shields.io/badge/-GitHub-1B3A5C?style=flat-square&logo=github&logoColor=white)](https://github.com/dairxp)
-[![GitLab](https://img.shields.io/badge/-GitLab-1B3A5C?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/dairxp)
+[![X](https://img.shields.io/badge/-X-1B3A5C?style=flat-square&logo=x&logoColor=white)](https://x.com/ajmaquera)
+[![GitHub](https://img.shields.io/badge/-GitHub-1B3A5C?style=flat-square&logo=github&logoColor=white)](https://github.com/ajmaquera)
+[![GitLab](https://img.shields.io/badge/-GitLab-1B3A5C?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ajmaquera)
 
 </td>
 <td valign="middle" width="35%">
@@ -118,7 +118,7 @@ _**Still growing, always learning and genuinely enjoying the process.**_
       Springer · 2nd International Symposium on Green Technologies · Portalegre, Portugal · 2025
     </td>
     <td align="center" valign="middle" width="20%">
-      <img src="https://komarev.com/ghpvc/?username=dairxp&color=1B3A5C&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=ajmaquera&color=1B3A5C&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
     </td>
   </tr>
 </table>
@@ -131,10 +131,10 @@ _**Still growing, always learning and genuinely enjoying the process.**_
     <table>
       <tr>
         <td align="center" width="50%">
-          <img alt="DairXP's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dairxp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&v=1" height="192px" style="border-radius: 12px;"/>
+          <img alt="ajmaquera's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ajmaquera&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&v=4&random=123123" height="192px" style="border-radius: 12px;"/>
         </td>
         <td align="center" width="50%">
-          <img alt="DairXP's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dairxp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=html,css,jupyter%20notebook,roff&v=1" height="192px" style="border-radius: 12px;"/>
+          <img alt="ajmaquera's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ajmaquera&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=html,css,jupyter%20notebook,roff&v=4&random=123123" height="192px" style="border-radius: 12px;"/>
         </td>
       </tr>
     </table>
@@ -142,11 +142,11 @@ _**Still growing, always learning and genuinely enjoying the process.**_
 </div>
 
 <div align="center" style="padding: 8px 0 10px 0;">
-  <img src="https://streak-stats.demolab.com?user=dairxp&theme=dark&hide_border=true&background=0D1117&ring=4A9EDB&fire=F8D866&currStreakLabel=4A9EDB" alt="DairXP's GitHub Streak" style="border-radius: 12px; max-width: 100%;" />
+  <img src="https://streak-stats.demolab.com?user=ajmaquera&theme=dark&hide_border=true&background=0D1117&ring=4A9EDB&fire=F8D866&currStreakLabel=4A9EDB" alt="ajmaquera's GitHub Streak" style="border-radius: 12px; max-width: 100%;" />
 </div>
 
 <div align="center" style="padding: 8px 0 4px 0;">
-  <img src="https://pacman.abozanona.me?username=dairxp" alt="Pac-Man Contribution Graph" style="border-radius: 12px; box-shadow: 0 10px 25px rgba(15, 23, 42, 0.2); max-width: 100%;" />
+  <img src="https://pacman.abozanona.me?username=ajmaquera" alt="Pac-Man Contribution Graph" style="border-radius: 12px; box-shadow: 0 10px 25px rgba(15, 23, 42, 0.2); max-width: 100%;" />
 </div>
 
 ---
